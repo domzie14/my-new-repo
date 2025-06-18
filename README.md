@@ -1,3 +1,3 @@
-"# my-new-repo" 
+# my-new-repo
 hello
 accra 
